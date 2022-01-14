@@ -1,3 +1,3 @@
 # Mostler
 
-Community health files for the @Mostler organization.
+Community health files for the @mostler organization.
