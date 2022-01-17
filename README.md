@@ -1,5 +1,7 @@
 # Default community health files
 
+Community health files for the [@Mostler](https://github.com/mostler) organization.
+
 <div align="left">
 	<a href="https://github.com/mostler">
 		<img type="image/png" width="100" height="100"
@@ -7,6 +9,3 @@
 		/>
 	</a>
 </div>
-
-Community health files for the [@Mostler](https://github.com/mostler) organization.
-
